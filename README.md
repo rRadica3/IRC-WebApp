@@ -1,2 +1,4 @@
 # IRC-WebApp
-*Temp Desc
+
+First commit.
+Check back later for updates...
